@@ -16,7 +16,7 @@ def main():
     print("University of Arizona coordinates: 32.2319° N, 110.9501° W")
 
     # Add your own message here!
-    print("I am interested in GIS because as a visual person, it is gret to be able to view complex data on clear and visual maps.It is also a great way to identify spatial patterns that would otherwise be missed in standard spreadsheets.")
-
+    print("I am interested in GIS because as a visual person, it is great to be able to view complex data on clear and visual maps.It is also a great way to identify spatial patterns that would otherwise be missed in standard spreadsheets.")
+print('Updated in Codespace')
 if __name__ == "__main__":
     main()
