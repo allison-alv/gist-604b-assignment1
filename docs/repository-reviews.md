@@ -18,11 +18,9 @@ This repository is a essentially a guidebook that leads someone who has little t
 
 ### Repository Structure    
 What folders or files stand out?  
-Reviewing this repository, it appears that there are only to files. What stands out to me  
-is that this repository appears to have an organized and full README.md file. This repository
-is basically a lesson plan, and everything is laid out here. I think that it is nicely laid  
-out and organized. It appears to have well identified headings and sub-headings, tables,  
-bullet points, etc. 
+Reviewing this repository, it appears that there are only two files. What stands out to me  
+is that this repository appears to have an organized and full README.md file, it is quite long and detailed. This repository
+is basically a lesson plan, and everything is laid out here. With this being the first repo I am exploring, I find it interesting what information is included in the README. I think that it is nicely laid out and organized. It appears to have well identified headings and sub-headings, tables, bullet points, etc.   
 
 ### Documentation  
 How helpful is the README?  
