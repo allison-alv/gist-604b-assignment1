@@ -19,7 +19,7 @@ This repository is a essentially a guidebook that leads someone who has little t
 ### Repository Structure    
 What folders or files stand out?  
 Reviewing this repository, it appears that there are only to files. What stands out to me  
-is that this repository appears to have everything in the README.md file. This repository
+is that this repository appears to have an organized and full README.md file. This repository
 is basically a lesson plan, and everything is laid out here. I think that it is nicely laid  
 out and organized. It appears to have well identified headings and sub-headings, tables,  
 bullet points, etc. 
@@ -27,7 +27,7 @@ bullet points, etc.
 ### Documentation  
 How helpful is the README?  
 The README is very helpful. It is very well laid out and formatted and easy to understand.  
-Being limited in GitHub experience from this point on, I am unsure if this is unconventional for a README, but I found it easy and at the moment, I am a fan of this Repo README.  
+Being limited in GitHub experience from this point on, I am impressed with the layout and information within the README, but I found it easy and at the moment, I am a fan of this Repo README.  
 
 ### Activity  
 Is the repository actively maintained?  
@@ -35,7 +35,7 @@ This repository does not look to be actively maintained. It looks like the last 
   
 ### Key Observation  
 One thing this project does well.  
-As mentioned in a previous question response, I am a fan of how well formatted the README is and how detailed and specific it is. It is clear and easy to understand, and I think that this is a great example of what a neatly organized and descriptive README file can look like. Regarding the size/length, I am not sure if they are typically this detailed and large.   
+As mentioned in a previous question response, I am a fan of how well formatted the README is and how detailed and specific it is. It is clear and easy to understand, and I think that this is a great example of what a neatly organized and descriptive README file can look like.
 
 
 ---  
